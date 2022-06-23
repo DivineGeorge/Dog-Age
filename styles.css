@@ -10,7 +10,7 @@ body {
 
 @media (max-width: 768px) {
     body {
-        margin-top: 30%;
+        margin-top: 20%;
     }
 }
 
@@ -62,12 +62,12 @@ body {
 .link {
     text-decoration: none;
     font-size: 17px;
-    font-family: cursive;
+    font-family: fantasy;
     color: red;
 }
 
 p {
     font-size: 34px;
-    font-family: cursive;
+    font-family: fantasy;
 }
 
